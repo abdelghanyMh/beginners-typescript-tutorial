@@ -1,5 +1,8 @@
 <a href="https://totaltypescript.com/tutorials/beginners-typescript"><img src="https://res.cloudinary.com/total-typescript/image/upload/v1709297838/github--beginngers-typescript_2x_p7vtmw.jpg" alt="beginner typescript tutorial" /></a>
 
+
+<img src="/certificate.png" alt="beginner typescript certificate" />
+
 ## Quickstart
 
 Take the course on [Total TypeScript](https://totaltypescript.com/tutorials/beginners-typescript). There, you'll find:
